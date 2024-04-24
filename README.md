@@ -4,7 +4,6 @@ For this, we have created a model that analyzes previous stock data of certain c
 # Project Functions
 The following sequence of operations will be opted to reach the desired predictions:
 1. DATA COLLECTION: The historical data of various companies since 03/01/05 is collected from various sites such as Google Finance, Yahoo Finance, Investing.com, etc. This data consists of attributes like open, close, high, low, and volume.The data collected consists of the following attributes:
-
 • OPEN: The first price at which a stock trades during a regular trading session.
 • CLOSE: The last price at which a stock trades during a regular trading session.
 • HIGH: It is the highest value that the share price of a company has reached in the previous day.
