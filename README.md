@@ -1,5 +1,5 @@
 # Objective
-A chief goal of this project is to contribute towards the academic understanding of stock market prediction.
+The chief goal of this project is to contribute towards the academic understanding of stock market prediction.
 For this, we have created a model that analyzes previous stock data of certain companies, with the help of certain parameters that affect stock value.Thus, we will determine the values that a particular stock will have in the near future and show that Data Analysis and Machine Learning could be used to guide an investor's decisions.
 # Project Functions
 The following sequence of operations will be opted to reach the desired predictions:
