@@ -4,9 +4,10 @@ For this, we have created a model that analyzes previous stock data of certain c
 # Project Functions
 The following sequence of operations will be opted to reach the desired predictions:
 1. DATA COLLECTION: The historical data of various companies since 03/01/05 is collected from various sites such as Google Finance, Yahoo Finance, Investing.com, etc. This data consists of attributes like open, close, high, low, and volume.The data collected consists of the following attributes:
+
 • OPEN: The first price at which a stock trades during a regular trading session.
 • CLOSE: The last price at which a stock trades during a regular trading session.
 • HIGH: It is the highest value that the share price of a company has reached in the previous day.
 • LOW: It is the lowest value that the share price of a company has reached in the previous day.
-2. DECIDING FACTORS: The stock market prices depend on various factors like Sensex, Nifty, Hang Seng, USD/INR, etc. Data regarding these factors is also collected as it is essential for proceeding to the predictive analysis.
-3. DATA DIVISION: The data of any particular company is divided into two parts, i.e., training data and testing data. The training data is fed to a model which consists of an algorithm for data prediction using linear regression.
+3. DECIDING FACTORS: The stock market prices depend on various factors like Sensex, Nifty, Hang Seng, USD/INR, etc. Data regarding these factors is also collected as it is essential for proceeding to the predictive analysis.
+4. DATA DIVISION: The data of any particular company is divided into two parts, i.e., training data and testing data. The training data is fed to a model which consists of an algorithm for data prediction using linear regression.
